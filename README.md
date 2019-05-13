@@ -10,3 +10,4 @@ https://nbviewer.jupyter.org/gist/chunyingg/bfa56153f35a4702c34a58c9bafddf26
   2. XGboost : https://nbviewer.jupyter.org/gist/chunyingg/39768692b3779b262c95bcad54d425a1
   3. Neural Network : https://nbviewer.jupyter.org/gist/chunyingg/afb55dcece49c14c6bcc73aa47a17fc1
 ## Ensemble
+https://gist.github.com/chunyingg/cd2db7e653da8c0ac0b420b3803f900e
