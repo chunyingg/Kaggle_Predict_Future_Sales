@@ -18,3 +18,6 @@ https://nbviewer.jupyter.org/gist/chunyingg/bfa56153f35a4702c34a58c9bafddf26
 https://gist.github.com/chunyingg/cd2db7e653da8c0ac0b420b3803f900e
 ## Vote
 I uesd all the data of predictions to generate a new outcome. The method is averaging them.
+## Reference
+Learning from this kernal
+https://www.kaggle.com/dhimananubhav/feature-engineering-xgboost
