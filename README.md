@@ -24,5 +24,5 @@ However, the outcome of esemble and vote is better than all the single model.
 ## Reference
 Learning from this kernal
 https://www.kaggle.com/dhimananubhav/feature-engineering-xgboost
-and this author's github
 https://github.com/NoxMoon
+https://github.com/alexshuang/predict_future_sales
