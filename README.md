@@ -18,6 +18,9 @@ https://nbviewer.jupyter.org/gist/chunyingg/bfa56153f35a4702c34a58c9bafddf26
 https://gist.github.com/chunyingg/cd2db7e653da8c0ac0b420b3803f900e
 ## Vote
 I uesd all the data of predictions to generate a new outcome. The method is giving weights according to their performance.
+## Conclusion
+The best performance of single models is lightgbm, and the Neural Network is the worst and the most time consuming.
+However, the outcome of esemble and vote is better than all the single model.
 ## Reference
 Learning from this kernal
 https://www.kaggle.com/dhimananubhav/feature-engineering-xgboost
