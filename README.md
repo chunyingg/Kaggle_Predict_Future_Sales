@@ -11,3 +11,5 @@ https://nbviewer.jupyter.org/gist/chunyingg/bfa56153f35a4702c34a58c9bafddf26
   3. Neural Network : https://nbviewer.jupyter.org/gist/chunyingg/afb55dcece49c14c6bcc73aa47a17fc1
 ## Ensemble
 https://gist.github.com/chunyingg/cd2db7e653da8c0ac0b420b3803f900e
+## Vote
+I uesd all the data of predictions to generate a new outcome. The method is averaging them.
